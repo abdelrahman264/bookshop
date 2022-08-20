@@ -38,7 +38,7 @@ const Books = () => {
           className="text-lg text-stone-400 cursor-pointer"
           onClick={handleNavigation}
         >
-          View all
+          View All
         </p>
       </div>
       <div className="flex flex-row justify-between m-5">
