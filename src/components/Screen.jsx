@@ -1,13 +1,13 @@
 import React, { StrictMode } from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
-import Logo from "./components/Logo";
-import Searchbar from "./components/Searchbar";
-import HeaderIcons from "./components/HeaderIcons";
-import Navigation from "./components/Navigation";
-import Home from "./components/Home";
+import Logo from "./Logo";
+import Searchbar from "./Searchbar";
+import HeaderIcons from "./HeaderIcons";
+import Navigation from "./Navigation";
+import Home from "./Home";
 import { Routes } from "react-router-dom";
-import Books from "./components/Books";
-import AppRoutes from "./Services/AppRoutes";
+import Books from "./Books";
+import AppRoutes from "../Services/AppRoutes";
 
 
 const Screen =() =>{

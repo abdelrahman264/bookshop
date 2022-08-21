@@ -1,6 +1,6 @@
 import React, { StrictMode } from "react";
 import { QueryClient, QueryClientProvider } from "react-query";
-import Screen from "./Screen";
+import Screen from "./components/Screen";
 
 const queryClient = new QueryClient();
 
